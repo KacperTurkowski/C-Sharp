@@ -1,0 +1,10 @@
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\bin\Debug\SłownieOkienko.exe.config
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\bin\Debug\SłownieOkienko.exe
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\bin\Debug\SłownieOkienko.pdb
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\obj\Debug\SłownieOkienko.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\obj\Debug\SłownieOkienko.Słownie.resources
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\obj\Debug\SłownieOkienko.Properties.Resources.resources
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\obj\Debug\SłownieOkienko.csproj.GenerateResource.cache
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\obj\Debug\SłownieOkienko.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\obj\Debug\SłownieOkienko.exe
+C:\Users\Kacper\source\repos\SłownieOkienko\SłownieOkienko\obj\Debug\SłownieOkienko.pdb
