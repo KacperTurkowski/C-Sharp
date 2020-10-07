@@ -1,0 +1,10 @@
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\bin\Debug\the_game_of_life.exe.config
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\bin\Debug\the_game_of_life.exe
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\bin\Debug\the_game_of_life.pdb
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\obj\Debug\the_game_of_life.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\obj\Debug\the_game_of_life.Properties.Resources.resources
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\obj\Debug\the_game_of_life.csproj.GenerateResource.cache
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\obj\Debug\the_game_of_life.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\obj\Debug\the_game_of_life.exe
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\obj\Debug\the_game_of_life.pdb
+C:\Users\Kacper\source\repos\the_game_of_life\the_game_of_life\obj\Debug\the_game_of_life.Form1.resources
