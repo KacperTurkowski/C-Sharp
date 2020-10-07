@@ -1,0 +1,10 @@
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\bin\Debug\Symulacja świata.exe.config
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\bin\Debug\Symulacja świata.exe
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\bin\Debug\Symulacja świata.pdb
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\obj\Debug\Symulacja świata.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\obj\Debug\Symulacja_świata.Form1.resources
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\obj\Debug\Symulacja_świata.Properties.Resources.resources
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\obj\Debug\Symulacja świata.csproj.GenerateResource.cache
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\obj\Debug\Symulacja świata.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\obj\Debug\Symulacja świata.exe
+C:\Users\Kacper\source\repos\Symulacja świata\Symulacja świata\obj\Debug\Symulacja świata.pdb
