@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TTT.MainPage"
+             Title="Grid Demo">
+    <StackLayout BackgroundColor="#000000" >
+        <StackLayout BackgroundColor="#216D26">
+            <Label Text="Tic Tac Toe"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"
+               FontSize="50"/>
+        </StackLayout>
+        <Grid VerticalOptions="FillAndExpand"
+              HorizontalOptions="FillAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Text=""
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    FontSize="50"
+                    x:Name="Button00" 
+                    Clicked="Button00_Clicked" BorderWidth="-1"/>
+            <Button Text=""
+                    Grid.Column="1"
+                    Grid.Row="0"
+                    FontSize="50"
+                    x:Name="Button10"
+                    Clicked="Button10_Clicked"/>
+            <Button Text=""
+                    Grid.Column="2"
+                    Grid.Row="0"
+                    FontSize="50"
+                    x:Name="Button20"
+                    Clicked="Button20_Clicked"/>
+
+            <Button Text=""
+                    Grid.Column="0"
+                    Grid.Row="1"
+                    FontSize="50"
+                    x:Name="Button01"
+                    Clicked="Button01_Clicked"/>
+            <Button Text=""
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    FontSize="50"
+                    x:Name="Button11"
+                    Clicked="Button11_Clicked"/>
+            <Button Text=""
+                    Grid.Column="2"
+                    Grid.Row="1"
+                    FontSize="50"
+                    x:Name="Button21"
+                    Clicked="Button21_Clicked"/>
+
+            <Button Text=""
+                    Grid.Column="0"
+                    Grid.Row="2"
+                    FontSize="50"
+                    x:Name="Button02"
+                    Clicked="Button02_Clicked"/>
+            <Button Text=""
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    FontSize="50"
+                    x:Name="Button12"
+                    Clicked="Button12_Clicked"/>
+            <Button Text=""
+                    Grid.Column="2"
+                    Grid.Row="2"
+                    FontSize="50"
+                    x:Name="Button22"
+                    Clicked="Button22_Clicked"/>
+            <Label Text="a"
+                   HorizontalOptions="Center"
+                   Grid.ColumnSpan="3"
+                   Grid.Row="3"
+                   FontSize="30"
+                   TextColor="#216D26"
+                   x:Name="Information"/>
+            <Button Text="RESET"
+                    Grid.ColumnSpan="3"
+                    Grid.Row="4"
+                    x:Name="ResetButton"
+                    FontSize="40"
+                    Clicked="ResetButton_Clicked"/>
+
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

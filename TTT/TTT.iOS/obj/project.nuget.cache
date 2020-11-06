@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/BRUdV2uZ4+kXZh3USsK2w0p0VMUG6UppPvep5kPq8S+BUz8SHUKT0n8bOTcaPsCcK2WDv5xhCY7pkDqcfXnZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\source\\repos\\TTT\\TTT.iOS\\TTT.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

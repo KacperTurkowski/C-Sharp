@@ -1,0 +1,14 @@
+C:\Users\Kacper\source\repos\TTT\TTT\bin\Debug\netstandard2.0\TTT.deps.json
+C:\Users\Kacper\source\repos\TTT\TTT\bin\Debug\netstandard2.0\TTT.dll
+C:\Users\Kacper\source\repos\TTT\TTT\bin\Debug\netstandard2.0\ref\TTT.dll
+C:\Users\Kacper\source\repos\TTT\TTT\bin\Debug\netstandard2.0\TTT.pdb
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\TTT.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\TTT.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\TTT.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\TTT.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\TTT.dll
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\ref\TTT.dll
+C:\Users\Kacper\source\repos\TTT\TTT\obj\Debug\netstandard2.0\TTT.pdb
